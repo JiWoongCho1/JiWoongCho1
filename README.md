@@ -22,7 +22,10 @@ Hello! This is Ji Woong Choi </h1>
 
 - choiji320@naver.com
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiWoongCho1&count_bg=%233DC8BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Gihub+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <!---
 JiWoongCho1/JiWoongCho1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
