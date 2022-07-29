@@ -1,9 +1,8 @@
   
 <h1> 
-<a href="https://www.instagram.com/chole_jisu/">
-    <img 
-        src="http://img.shields.io/badge/-222222/style=flat&logo=Instagram/&link=https://www.instagram.com/chole_jisu/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+<img src="http://img.shields.io/badge/-222222?style=flat&logo=about.me&logoColor=blue"/>
+        
 </a>
 Hello! This is Ji Woong Choi </h1>
 
