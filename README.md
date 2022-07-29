@@ -7,7 +7,11 @@
 
 - Computer Vision, GAN
 
-<h2> 📫Email <.h2>
+<h2> ✨ Posting </h2>
+
+- KL divergence : https://blog.naver.com/choiji320/222831783707
+
+<h2> 📫Email </h2>
 
 - choiji320@naver.com
 
