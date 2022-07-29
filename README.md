@@ -1,8 +1,15 @@
-- 👋 I'm Jiwoong Choi, student of HUFS.
-- 👀 I’m interested in Computer Vision
-- 🌱 Now i'm studying GAN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  
+<h2> 🎓 Education</h1>
+
+- Undergraduate student of HUFS
+
+<h2>👀 Interest</h2>
+
+- Computer Vision, GAN
+
+<h2> 📫Email <.h2>
+
+- choiji320@naver.com
 
 <!---
 JiWoongCho1/JiWoongCho1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
