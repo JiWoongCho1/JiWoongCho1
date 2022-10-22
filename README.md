@@ -18,8 +18,7 @@ Hello! This is Ji Woong Choi </h1>
 - Understanding KL divergence, CrossEntropy : <A href = "https://blog.naver.com/choiji320/222831783707"> link </A>
 
 <h2> ✨ GAN 코드구현 </h2><P>
-- GAN(Generative Adversarial Network, 2014) <P><A href = "https://github.com/JiWoongCho1/GAN/blob/main/GAN.ipynb"> Code ,</A> 
-  <A href = "https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf">  논문 링크 </A>
+- GAN(Generative Adversarial Network, 2014) <P><A href = "https://github.com/JiWoongCho1/GAN/blob/main/GAN.ipynb"> Code ,</A>  <A href = "https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf">  논문 링크 </A>
   
 - cGAN(Conditional Generative Adversarial Network, 2014) :<A href = "https://github.com/JiWoongCho1/GAN/blob/main/cGAN.ipynb"> link </A><P>
   
