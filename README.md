@@ -18,9 +18,13 @@ Hello! This is Ji Woong Choi </h1>
 - Understanding KL divergence, CrossEntropy : <A href = "https://blog.naver.com/choiji320/222831783707"> link </A>
 
 <h2> ✨ GAN 코드구현 </h2>
-- GAN
-- cGAN
--
+- GAN <P>
+- cGAN<P>
+- AutoEncoder<P>
+- Pix2Pix<P>
+- StyleTransfer<P>
+- AdaIN Style Transfer<P>
+- CycleGAN<P>
 
 <h2> 📫Email </h2>
 
