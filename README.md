@@ -15,7 +15,7 @@ Hello! This is Ji Woong Choi </h1>
 - Computer Vision, GAN
 
 <h2> ✨ Posting </h2>
-- KL divergence  <A href = "https://blog.naver.com/choiji320/222831783707"> link </A>
+- KL divergence  <A href = "https://blog.naver.com/choiji320/222831783707">                   link </A>
 
 <h2> 📫Email </h2>
 
