@@ -17,6 +17,11 @@ Hello! This is Ji Woong Choi </h1>
 <h2> ✨ Posting </h2>
 - Understanding KL divergence, CrossEntropy : <A href = "https://blog.naver.com/choiji320/222831783707"> link </A>
 
+<h2> ✨ GAN 코드구현 < /h2>
+- GAN
+- cGAN
+-
+
 <h2> 📫Email </h2>
 
 - choiji320@naver.com
