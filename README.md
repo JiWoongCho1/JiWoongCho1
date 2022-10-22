@@ -17,14 +17,14 @@ Hello! This is Ji Woong Choi </h1>
 <h2> ✨ Posting </h2>
 - Understanding KL divergence, CrossEntropy : <A href = "https://blog.naver.com/choiji320/222831783707"> link </A>
 
-<h2> ✨ GAN 코드구현 </h2>
-- GAN <P>
-- cGAN<P>
-- AutoEncoder<P>
-- Pix2Pix<P>
-- StyleTransfer<P>
-- AdaIN Style Transfer<P>
-- CycleGAN<P>
+<h2> ✨ GAN 코드구현 </h2><P>
+- GAN :<A href = "https://github.com/JiWoongCho1/GAN/blob/main/GAN.ipynb"> link </A><P> 
+- cGAN :<A href = "https://github.com/JiWoongCho1/GAN/blob/main/cGAN.ipynb"> link </A><P>
+- AutoEncoder :<A href = "https://github.com/JiWoongCho1/GAN/blob/main/AutoEncoder.ipynb"> link </A><P>
+- Pix2Pix :<A href = "https://github.com/JiWoongCho1/GAN/blob/main/Pix2Pix.ipynb"> link </A><P>
+- StyleTransfer : <A href = "https://github.com/JiWoongCho1/GAN/blob/main/Style_Transfer.ipynb"> link </A><P>
+- AdaIN Style Transfer : <A href = "https://github.com/JiWoongCho1/GAN/blob/main/AdaIN%20Style%20Transfer.ipynb"> link </A><P>
+- CycleGAN : <A href = "https://github.com/JiWoongCho1/GAN/blob/main/CycleGAN.ipynb"> link </A><P>
 
 <h2> 📫Email </h2>
 
