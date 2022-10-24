@@ -19,7 +19,7 @@ Hello! This is Ji Woong Choi </h1>
 
 <h2> ✨ GAN 코드구현 </h2>
 
-- GAN(Generative Adversarial Network, 2014) :<A href = "https://github.com/JiWoongCho1/GAN/blob/main/GAN.ipynb"> Code ,</A>  <A href = "https://arxiv.org/abs/1411.1784">  논문 링크 </A>
+- GAN(Generative Adversarial Network, 2014) :<A href = "https://github.com/JiWoongCho1/GAN/blob/main/GAN.ipynb"> Code ,</A>  <A href = https://arxiv.org/abs/1406.2661">  논문 링크 </A>
   
 - cGAN(Conditional Generative Adversarial Network, 2014) :<A href = "https://github.com/JiWoongCho1/GAN/blob/main/cGAN.ipynb"> Code ,</A>  <A href = "https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf">  논문 링크 </A>
   
