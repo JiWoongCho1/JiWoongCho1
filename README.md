@@ -8,7 +8,7 @@ Hello! This is Ji Woong Choi </h1>
 <h2> 🎓 Education</h1>
 - Undergraduate student of HUFS
 <h2>👀 Interest</h2>
-- Computer Vision, GAN
+- Computer Vision, GAN, 3D modeling
 <h2> 📫Email </h2>
 - choiji320@naver.com<br>
 - choiji320@gmail.com
