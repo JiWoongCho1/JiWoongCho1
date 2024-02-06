@@ -6,7 +6,7 @@
 </a>
 Hello World! This is Ji Woong Choi </h1>
 <h2> 🎓 Education</h1>
-- Undergraduate student of HUFS
+- Graduate student of HYU
 <h2>👀 Interest</h2>
 - Computer Vision, Classification, Self-supervised learning, segmentation
 <h2> 📫Email </h2>
