@@ -6,9 +6,9 @@
 </a>
 Hello World! This is Ji Woong Choi </h1>
 <h2> 🎓 Education</h1>
-- Graduate student of HYU
+
 <h2>👀 Interest</h2>
-- Computer Vision, Classification, Self-supervised learning, segmentation
+- Computer Vision, Classification, Semi Supervised Learning, Self-Supervised Learning,
 <h2> 📫Email </h2>
 - choiji320@naver.com<br>
 - choiji320@gmail.com
